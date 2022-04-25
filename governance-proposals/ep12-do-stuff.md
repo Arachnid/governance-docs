@@ -1,5 +1,5 @@
 ---
-description: Test.
+description: Test 2.
 ---
 
 # [Executable] Proposal Title
