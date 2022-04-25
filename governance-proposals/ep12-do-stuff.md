@@ -1,5 +1,5 @@
 ---
-description: A short (1-2 sentence) description of the proposal.
+description: Test.
 ---
 
 # [Executable] Proposal Title
